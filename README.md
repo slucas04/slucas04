@@ -15,10 +15,8 @@ Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento web
 
 ## 📊 Minhas Estatísticas
 
-<div style="display=flex;">
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=slucas04&show_icons=true&theme=radical)  
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=slucas04&layout=compact&theme=radical)
-</div>
 
 ---
 
