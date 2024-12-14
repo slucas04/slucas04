@@ -8,14 +8,13 @@
 ---
 
 ## 🚀 Sobre mim  
-Atualmente curso o **7º período de Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)** e estou me especializando em **Back-end com Java e Inteligência Artificial** pelo programa Oracle Next Education.
-Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento web fullstack**, **data science**, **machine learning** e **interfaces mobile**. No tempo livre, estudo novos idiomas e busco sempre evoluir profissionalmente.  
+  Atualmente curso o **7º período de Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)** e estou me especializando em **Back-end com Java e Inteligência Artificial** pelo programa Oracle Next Education.
+  Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento web fullstack**, **data science**, **machine learning** e **interfaces mobile**. No tempo livre, estudo novos idiomas e busco sempre evoluir profissionalmente.  
 
 ---
 
 ## 📊 Minhas Estatísticas
 
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=slucas04&show_icons=true&theme=radical)  
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=slucas04&layout=compact&theme=radical)
 
 ---
@@ -31,7 +30,6 @@ Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento web
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
