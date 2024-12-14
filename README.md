@@ -45,5 +45,6 @@ Desenvolvido em JavaScript, HTML e CSS, ele foi criado como parte do challenge d
 
 ## 🌐 Vamos nos conectar!  
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6A0DAD?logo=desktop&logoColor=white&style=for-the-badge)](https://portfolio-eight-flax-49.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samuellucas-dev/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/slucas04) 
