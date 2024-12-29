@@ -1,7 +1,7 @@
 # Olá, eu sou o Samuel! 👋
 
 🎓 **Estudante de Ciência da Computação na UNIFOR** | 7º Semestre  
-💻 **Desenvolvedor Web Fullstack em formação** | Especialização em **Backend com Java** e **Inteligência Artificial**  
+💻 **Desenvolvedor Fullstack em formação** | Especialização em **Backend com Java** e **Inteligência Artificial**  
 🌱 **Buscando soluções eficazes e inovadoras com foco no impacto social**  
 🛠️ **Monitor acadêmico** | Experiência em **suporte** e **projetos de inovação**  
 
