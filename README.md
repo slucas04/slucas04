@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Sobre mim  
-  Atualmente curso o **7º período de Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)** e estou me especializando em **Back-end com Java e Inteligência Artificial** pelo programa Oracle Next Education.
+  Atualmente curso o **6º período de Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)** e estou me especializando em **Back-end com Java e Inteligência Artificial** pelo programa Oracle Next Education.
   Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento web fullstack**, **data science**, **machine learning** e **interfaces mobile**. No tempo livre, estudo novos idiomas e busco sempre evoluir profissionalmente.  
 
 ---
