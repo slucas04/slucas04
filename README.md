@@ -1,12 +1,9 @@
 ![Banner](https://github.com/user-attachments/assets/dfab38d3-5719-442a-9317-f8f1a92483e8)
 
-🎓 **Estudante de Ciência da Computação na UNIFOR** | 6º Semestre  
-
-💻 **Desenvolvedor Fullstack em formação**
-
-🛠️ **Experiência em monitoria acadêmica, suporte e projetos de inovação** 
-
-🌱 **Buscando soluções eficazes e inovadoras com foco no impacto social**  
+- 🎓 **Estudante de Ciência da Computação na UNIFOR** | 6º Semestre  
+- 💻 **Desenvolvedor Fullstack em formação**
+- 🛠️ **Experiência em monitoria acadêmica, suporte e projetos de inovação** 
+- 🌱 **Buscando soluções eficazes e inovadoras com foco no impacto social**  
 
 ---
 
