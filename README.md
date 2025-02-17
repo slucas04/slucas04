@@ -1,4 +1,5 @@
-# Olá, eu sou o Samuel! 👋
+![Banner](https://github.com/user-attachments/assets/2c7bc301-b7bf-4098-b325-bbb5573562a2)
+
 
 🎓 **Estudante de Ciência da Computação na UNIFOR** | 6º Semestre  
 💻 **Desenvolvedor Fullstack em formação** | Especialização em **Backend com Java** e **Inteligência Artificial**  
