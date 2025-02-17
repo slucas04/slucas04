@@ -52,5 +52,5 @@ Projeto de plataforma de Jogo da Velha desenvolvido em React com Next.js e Boots
 ## Vamos nos conectar! 🌐
 
 <!--[![Portfolio](https://img.shields.io/badge/-Portfolio-6A0DAD?logo=desktop&logoColor=white&style=for-the-badge)](https://portfolio-eight-flax-49.vercel.app)-->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samuellucas-dev/)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/samuellucas-dev/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:slucas0730@gmail.com) 
