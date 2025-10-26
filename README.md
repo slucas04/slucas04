@@ -1,15 +1,15 @@
 ![Banner](https://github.com/user-attachments/assets/dfab38d3-5719-442a-9317-f8f1a92483e8)
 
-- 🎓 **Estudante de Ciência da Computação na UNIFOR** | 6º Semestre  
+- 🎓 **Estudante de Ciência da Computação na UNIFOR** | 7º Semestre  
 - 💻 **Desenvolvedor Fullstack em formação**
-- 🛠️ **Experiência em monitoria acadêmica, suporte e projetos de inovação** 
+- 🛠️ **Experiência em monitoria acadêmica, análise de dados, suporte e projetos de inovação** 
 - 🌱 **Buscando soluções eficazes e inovadoras com foco no impacto social**  
 
 ---
 
 ## Sobre mim 🙋🏾‍♂️
-  Atualmente curso o **6º período de Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)**.
-  Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento fullstack**, **machine learning** e **interfaces mobile**. No tempo livre, estudo novos idiomas e busco sempre evoluir profissionalmente.  
+  Atualmente curso o **7º período de Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)**.
+  Sou apaixonado por aprender novas tecnologias, com foco em **desenvolvimento fullstack**, **data science** e **DevOps**. No tempo livre, estudo novos idiomas e busco sempre evoluir profissionalmente.  
 
 ---
 
